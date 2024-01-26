@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seizure Sense: AI Approach to predicting seizures 
 
 [https://github.com/MattyB709/SeizureSense]
 <!--
