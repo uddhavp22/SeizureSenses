@@ -1,6 +1,8 @@
 ### Seizure Sense: AI Approach to predicting seizures 
 
-[https://github.com/MattyB709/SeizureSense]
+[https://github.com/MattyB709/SeizureSense] initial capstone project
+
+https://github.com/bell-boy/SeizureSense final neurips 2024 submission
 <!--
 **uddhavp22/uddhavp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
